@@ -1,0 +1,19 @@
+body {
+	background: black;
+	color: white;
+	text-align: center;
+	font-family: sans-serif;
+}
+
+.sherlock {
+	width: 90%;
+	background: green;
+	border-radius: 10px;
+	margin: auto;
+	margin-block: 20px;
+	padding: 10px;
+}
+
+.answer {
+	width: 400px;
+}
